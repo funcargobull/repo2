@@ -1,0 +1,2 @@
+в ветке demo нет boots_buttons и hats, в отличие от master
+10 коммитов
